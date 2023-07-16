@@ -1,0 +1,29 @@
+Music track: Inspiring People by Aylex
+Source: https://freetouse.com/music
+Free Vlog Music Without Copyright
+
+Music track: Inspiring People by Aylex
+Source: https://freetouse.com/music
+Free Vlog Music Without Copyright
+
+
+Question 1 : • Give an overview of your professional journey so far.
+Not recorded
+Question 2 : • In your experience, what's the major benefit of Node.js?
+Not recorded
+
+Not recorded
+Question 4 : • How does Node.js overcome the problem of blocking of I/O operations?
+Not recorded
+Question 5 : • How can we use async await in node.js?
+Not recorded
+Question 6 : • How to measure the duration and performance of async operations?
+Not recorded
+Question 7 : • What are event emitters in NodeJS?
+Not recorded
+Question 8 : • What is the difference between synchronous and asynchronous functions?
+Not recorded
+Question 9 : • How can we create a promise and when it is required.
+Not recorded
+Question 10 : • How can you manage the packages in your Node.js project?
+
